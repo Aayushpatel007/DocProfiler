@@ -7,7 +7,7 @@ Amount of unstructured data has been growing continously which includes text doc
 
 ### NLP tools/framework
 
-| Task | Framework/Model | Docker Image |
+| Task | Framework/Model | Docker Image (GPU support available) |
 | ----- | ----- | ----- |
 | Named Entity Recognition | [FlairNer](https://github.com/flairNLP/flair) | [docker pull aayushpatel007/flair_ner](https://hub.docker.com/r/aayushpatel007/flair_ner)|
 | Unsupervised Keyphrase Extraction | [SIFRank-2020](https://github.com/sunyilgdx/SIFRank) | [docker pull aayushpatel007/sifrank-keyphrases](https://hub.docker.com/r/aayushpatel007/sifrank-keyphrases)|
