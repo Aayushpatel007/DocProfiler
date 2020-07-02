@@ -1,0 +1,10 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+DocProfiler/docprofiler.py
+docprofiler.egg-info/PKG-INFO
+docprofiler.egg-info/SOURCES.txt
+docprofiler.egg-info/dependency_links.txt
+docprofiler.egg-info/requires.txt
+docprofiler.egg-info/top_level.txt
