@@ -45,6 +45,9 @@ http://host_ip_address:5002/tagme # For Entity-Linking
 http://host_ip_address:5003/textrank # For Text Summarization 
 
 ```
+### Performance comparision between Docprofiler and running these tools in sequential manner. (+44% times faster)
+
+<img src="https://github.com/Aayushpatel007/DocProfiler/blob/master/Time-comparision.png" width="600" height="500" style="vertical-align:center;">
 
 ### Use DocProfiler:
 
