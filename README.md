@@ -7,7 +7,14 @@ Amount of unstructured data has been growing continously which includes text doc
 
 ### NLP tools/framework
 
-| Task | Framework/Model | Docker Image
+| Task | Framework/Model | Docker Image |
 | ----- | ----- | ----- |
 | Named Entity Recognition | [FlairNer](https://github.com/flairNLP/flair) | [docker pull aayushpatel007/flair_ner](https://hub.docker.com/r/aayushpatel007/flair_ner)|
+| Unsupervised Keyphrase Extraction | [SIFRank-2020](https://github.com/sunyilgdx/SIFRank) | [docker pull aayushpatel007/sifrank-keyphrases](https://hub.docker.com/r/aayushpatel007/sifrank-keyphrases)|
+| Entity Linking | [TAGME](https://sobigdata.d4science.org/web/tagme/tagme-help) | [docker pull aayushpatel007/tagme-entity-linking](https://hub.docker.com/r/aayushpatel007/tagme-entity-linking)|
+| Text Summarization | [TextRank](https://radimrehurek.com/gensim/summarization/summariser.html) | [docker pull aayushpatel007/text-summarization](https://hub.docker.com/r/aayushpatel007/text-summarization)|
+| GeoParsing | Mordecai (Upcoming) | --Upcoming-- |
+| Language Detection | --Upcoming-- | --Upcoming-- |
+| Readability Analysis | --Upcoming-- | --Upcoming-- |
+
 
