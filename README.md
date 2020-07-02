@@ -8,7 +8,7 @@ Amount of unstructured data has been growing continously which includes text doc
 ### NLP tools/framework
 
 | Task | Framework/Model | Docker Image (GPU support available) | Ports |
-| ----- | ----- | ----- |
+| ----- | ----- | ----- | ---- |
 | Unsupervised Keyphrase Extraction | [SIFRank-2020](https://github.com/sunyilgdx/SIFRank) | [docker pull aayushpatel007/sifrank-keyphrases](https://hub.docker.com/r/aayushpatel007/sifrank-keyphrases)| 5000 |
 | Named Entity Recognition | [FlairNer](https://github.com/flairNLP/flair) | [docker pull aayushpatel007/flair_ner](https://hub.docker.com/r/aayushpatel007/flair_ner)| 5001 |
 | Entity Linking | [TAGME](https://sobigdata.d4science.org/web/tagme/tagme-help) | [docker pull aayushpatel007/tagme-entity-linking](https://hub.docker.com/r/aayushpatel007/tagme-entity-linking)| 5002 |
