@@ -227,3 +227,15 @@ print(data)
 Total time taken by docprofiler : 3.9456855
 
 ```
+
+### Refrences
+
+Sun, Yi & Qiu, Hangping & Zheng, Yu & Wang, Zhongwei & Zhang, Chaoran. (2020). SIFRank: A New Baseline for Unsupervised Keyphrase Extraction Based on Pre-trained Language Model. IEEE Access. PP. 1-1. 10.1109/ACCESS.2020.2965087. 
+
+
+Akbik, Alan & Bergmann, Tanja & Vollgraf, Roland. (2019). Pooled Contextualized Embeddings for Named Entity Recognition. 724-728. 10.18653/v1/N19-1078. 
+
+
+Hasibi, Faegheh & Balog, Krisztian & Bratsberg, Svein. (2016). On the Reproducibility of the TAGME Entity Linking System. 10.1007/978-3-319-30671-1. 
+
+
