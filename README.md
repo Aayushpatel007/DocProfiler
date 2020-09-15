@@ -1,4 +1,5 @@
 ## DocProfiler 
+## Note: (Major changes being made. Will update here in short time)
 A Python package to generate document profiles and extract metadata from text in parallel using several Docker images and NLP tools/framweworks.
 
 ### Abstract
